@@ -1,0 +1,2 @@
+this is line A 
+this is a new line with the append Method
